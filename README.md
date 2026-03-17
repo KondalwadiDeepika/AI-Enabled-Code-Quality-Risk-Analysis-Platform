@@ -1,6 +1,4 @@
-# AI-Enabled-Code-Quality-Risk-Analysis-Platform
-
-# Smart Code Reviewer
+#AI-Powered Code Review & Smart Debugging Assistant
 ---
 <img width="1906" height="870" alt="output_1" src="https://github.com/user-attachments/assets/9d4beb68-5499-45ac-910d-8e0863254b9a" />
 ---
@@ -16,7 +14,7 @@
 
 ## 📖 Overview
 
-**Smart Code Reviewer** is a modern Full Stack application that brings the power of Generative AI to your local development environment. It allows developers to paste code snippets in various languages (Java, Python, JS, etc.) and receive instant, high-quality feedback on:
+**AI-Powered Code Review & Smart Debugging Assistant** is a modern Full Stack application that brings the power of Generative AI to your local development environment. It allows developers to paste code snippets in various languages (Java, Python, JS, etc.) and receive instant, high-quality feedback on:
 
 * **🐞 Logical Bugs**
 * **🔒 Security Vulnerabilities**
@@ -106,11 +104,7 @@ npm start
 #### 3.Commit your changes (git commit -m 'Add some AmazingFeature').
 #### 4.Push to the branch (git push origin feature/AmazingFeature).
 #### 3.Open a Pull Request.
----
-### 📄 License
-#### Distributed under the MIT License. See [LICENSE](./LICENSE.txt) for more information.
----
-#### Made with ❤️ using Spring AI & React.
+
 
 
 
