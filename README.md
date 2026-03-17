@@ -1,4 +1,4 @@
-#AI-Powered Code Review & Smart Debugging Assistant
+AI-Powered Code Review & Smart Debugging Assistant
 ---
 <img width="1906" height="870" alt="output_1" src="https://github.com/user-attachments/assets/9d4beb68-5499-45ac-910d-8e0863254b9a" />
 ---
